@@ -1,0 +1,13 @@
+name: co2
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+ - python==3.11
+ - pip
+ - jupyter
+ - pytest
+ - pip:
+   - -r requirements.txt

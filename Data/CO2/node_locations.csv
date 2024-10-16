@@ -1,0 +1,75 @@
+node_id,node_name_long,lat,lng,label
+1,Stone Edge Farms (Vineyard),38.291,-122.506,imbalanced/invalid node
+2,Stone Edge Farms (Turbine),38.289,-122.503,fringe test node
+3,Piedmont High School,37.824,-122.233,imbalanced/invalid node
+4,Montclair Elementary School,37.831,-122.213,training node
+5,Port of Oakland,37.796,-122.279,fringe test node
+7,Skyline High School,37.798,-122.161,fringe test node
+8,Lighthouse Charter School,37.736,-122.196,imbalanced/invalid node
+9,Berkeley Marina 3,37.863,-122.314,fringe test node
+11,Bay Area Metro Center,37.788,-122.392,imbalanced/invalid node
+12,Riverside Elementary School,37.952,-122.327,imbalanced/invalid node
+13,Richmond High School,37.953,-122.347,training node
+14,Helms Middle School,37.963,-122.338,training node
+15,Ohlone Elementary School,38.008,-122.273,training node
+16,Ellerhorst Elementary School,37.982,-122.273,training node
+17,Stewart Elementary School,37.99,-122.291,training node
+19,Crespi Middle School,37.986,-122.308,central test node
+20,Nystrom Elementary School,37.928,-122.359,training node
+21,Washington Elementary School,37.925,-122.381,training node
+22,Dejean Middle School,37.934,-122.338,training node
+23,Mira Vista Elementary School,37.941,-122.314,training node
+24,Madera Elementary School,37.928,-122.299,training node
+25,Fred T. Korematsu (Portola) Middle School,37.92,-122.306,training node
+26,Peres Elementary School,37.94,-122.365,training node
+27,Lupine Hills Elementary School,38.008,-122.253,fringe test node
+28,Collins Elementary School,38.002,-122.289,training node
+29,Montalvin Elementary School,37.995,-122.335,imbalanced/invalid node
+30,Sheldon Elementary School,37.967,-122.298,training node
+31,Fred T. Korematsu Elementary School,37.737,-122.175,training node
+32,Park Day,37.83159,-122.25748,imbalanced/invalid node
+33,Oakland High School,37.804,-122.237,central test node
+35,Bishop O'Dowd High School,37.754,-122.155,imbalanced/invalid node
+36,North Oakland Community Charter School,37.833,-122.277,imbalanced/invalid node
+37,College Preparatory School,37.848,-122.24,imbalanced/invalid node
+38,St. Elizabeth High School,37.779,-122.222,training node
+39,Hall of Justice,37.775,-122.404,training node
+40,Head Royce School,37.809,-122.205,training node
+41,Richmond Field Station (RFS),37.913,-122.336,training node
+42,EBMUD,37.815,-122.282,training node
+43,BAAQMD sanpablo,37.96,-122.357,training node
+44,Albany Middle School,37.896,-122.292,training node
+45,Laney College,37.794,-122.263,training node
+46,SF Hospital Bldg 5,37.756,-122.405,training node
+48,Exploratorium Bay,37.802,-122.397,fringe test node
+49,Burckhalter Elementary,37.775,-122.167,training node
+50,El Cerrito High School,37.908,-122.295,central test node
+51,El Sobrante,37.974,-122.275,training node
+52,Kensington Hilltop Elementary School,37.9,-122.263,imbalanced/invalid node
+54,Kaiser Building,37.809,-122.263,training node
+55,Chabot Space & Science Center,37.819,-122.181,training node
+56,LBNL Bldg 70,37.876,-122.252,imbalanced/invalid node
+57,Hogan Middle School,38.101,-122.214,training node
+58,Cooper Elementary School,38.126,-122.24,imbalanced/invalid node
+59,Highland Elementary School,38.114,-122.234,central test node
+60,Jesse Bethel High School,38.121,-122.205,training node
+61,John W. Finney High School,38.133,-122.249,training node
+62,Elsa Widenmann Elementary School,38.147,-122.245,central test node
+63,Dan Mini Elementary School,38.15,-122.259,training node
+64,Federal Terrace Elementary School,38.123,-122.269,training node
+65,Mare Island Health and Fitness Academy,38.095,-122.274,training node
+78,Lincoln Elementary School,38.104,-122.254,training node
+79,Franklin Middle School,38.099,-122.233,imbalanced/invalid node
+80,Grace Patterson Elementary School,38.08,-122.238,training node
+81,Beverly Hills Elementary School,38.087,-122.225,training node
+82,Glen Cove Elementary School,38.075,-122.209,training node
+96,Brechtel Mfg,37.617,-122.069,fringe test node
+98,Rosa Parks Elementary School,37.866,-122.295,imbalanced/invalid node
+100,Prescott Elementary,37.808,-122.3,imbalanced/invalid node
+125,SF Public Safety Building,37.772,-122.392,imbalanced/invalid node
+140,Laurel Elementary School,37.792,-122.196,imbalanced/invalid node
+280,Berkeley Way West,37.873,-122.268,training node
+281,Oxford Tract Greenhouse,37.876,-122.267,training node
+286,Paradise Park,37.847,-122.28,training node
+290,Lincoln Middle School Alameda,37.753,-122.231,imbalanced/invalid node
+318,Southeast Community Center (SECC),37.743,-122.387,imbalanced/invalid node
